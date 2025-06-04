@@ -32,7 +32,7 @@ header .brand h1 > a {
   color: #38b000;
   font-weight: 600;
 }
-header, footer {
+header {
   display: flex;
   flex-direction: row;
 }
